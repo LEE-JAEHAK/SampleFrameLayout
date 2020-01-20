@@ -11,8 +11,6 @@ public class MainActivity extends AppCompatActivity {
     ImageView imageView2;
 
     int imageIndex = 0;
-    int sthchange=0;
-    //test
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
